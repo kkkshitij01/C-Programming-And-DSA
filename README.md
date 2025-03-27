@@ -17,7 +17,3 @@ This repository contains a collection of **C programs** implementing various **d
 ### ✅ Algorithms
 - Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap Sort)
 - Searching (Linear, Binary, Ternary)
-- Graph Algorithms (DFS, BFS, Dijkstra, Kruskal, Prim’s)
-- Dynamic Programming (Knapsack, LCS, Matrix Chain Multiplication)
-- Greedy Algorithms
-- Backtracki
